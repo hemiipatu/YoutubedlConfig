@@ -9,11 +9,11 @@
 &nbsp;
 
 ## What is YoutubedlConfig
-YoutubedlConfig is a .config file with flags that extract the audio of a specified video or playlist and saves them to C:\Users\%Username%\Downloads\.
+YoutubedlConfig is a .config file with flags that extract the audio of a specified video or playlist and saves them to C:\Users\Username\Downloads\.
 
 ## Where and how are the files saved
 The .config saves the audio files in following directories on Windows:
- - **_C:\Users\%Username%\Downloads\_** | Everything is downloaded to this directory.
+ - **_C:\Users\Username\Downloads_** | Everything is downloaded to this directory.
 
 The .config saves the audio files in the following directory on Linux:
  - **_Nothing_** | Nothing is created yet because the Linux functionality has yet to be made. WIP.

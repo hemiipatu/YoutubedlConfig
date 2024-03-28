@@ -1,4 +1,4 @@
 # Configuration for Youtube-dl.
 # File to be placed in: %appdata%\youtube-dl\config.txt OR C:\users\<user name>\youtube-dl.conf
 
---geo-bypass --yes-playlist --extract-audio --audio-format flac --audio-quality 0 --prefer-ffmpeg --ffmpeg-location "C:\Program Files (Portable)\FFmpeg" --output "%UserProfile%\Downloads\%(title)s.%(ext)s"
+--xff default --yes-playlist --extract-audio --audio-format flac --audio-quality 0 --prefer-ffmpeg --ffmpeg-location "C:\Program Files (Portable)\FFmpeg" --output "%UserProfile%\Downloads\%(title)s.%(ext)s"
